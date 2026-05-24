@@ -55,6 +55,20 @@ A Chrome extension that lets you select any area on your screen to scan QR codes
    - Click "Copy URL" to copy to clipboard
    - Click "Open Link" to open in a new tab
 
+## Screenshots
+
+### Popup with saved URL
+
+![Popup showing saved URL](screen_shorts/first%20ui.jpeg)
+
+### QR selection on a webpage
+
+![QR code selection on the webpage](screen_shorts/in%20the%20caption.png)
+
+### Success message on the page
+
+![Success toast shown on the webpage](screen_shorts/success%20msg.png)
+
 ## What It Detects
 
 The extension successfully scans:
