@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- Background -->
+  <rect width="128" height="128" fill="#1f93ff"/>
+  
+  <!-- QR Code pattern -->
+  <rect x="16" y="16" width="32" height="32" fill="#fff"/>
+  <rect x="22" y="22" width="20" height="20" fill="#222"/>
+  
+  <rect x="80" y="16" width="32" height="32" fill="#fff"/>
+  <rect x="86" y="22" width="20" height="20" fill="#222"/>
+  
+  <rect x="16" y="80" width="32" height="32" fill="#fff"/>
+  <rect x="22" y="86" width="20" height="20" fill="#222"/>
+  
+  <!-- Scanning elements -->
+  <circle cx="80" cy="80" r="20" fill="none" stroke="#fff" stroke-width="3" opacity="0.8"/>
+  <circle cx="80" cy="80" r="25" fill="none" stroke="#fff" stroke-width="2" opacity="0.5"/>
+</svg>
